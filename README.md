@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**clint9633/clint9633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <details>
  - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +10,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  </details>
+
+
+<!--
+**clint9633/clint9633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
